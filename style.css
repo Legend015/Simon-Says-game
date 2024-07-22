@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.main-content{
+    background-color: #77a1cd;
+    height: 20rem;
+    width: 20rem;
+    margin: 5rem auto;
+    border-radius: 2rem;
+    border: solid black;
+}
+
+.green{
+    background-color: rgb(72, 91, 214);
+}
+
+.red{
+    background-color: rgb(208, 42, 42);
+}
+
+.blue{
+    background-color: rgb(52, 214, 190);
+}
+
+.orange{
+    background-color: rgb(255, 186, 8);
+}
+
+.box{
+    height: 7rem;
+    width: 7rem;
+    margin: 1.5rem;
+    border-radius: 2rem;
+    border: solid black;
+}
+
+.effects{
+    display: flex;
+    height: 50%;
+}
+p{
+    font-weight: 600;
+    font-size: 1.8rem;
+}
