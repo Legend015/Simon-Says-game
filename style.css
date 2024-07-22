@@ -1,8 +1,24 @@
 body{
     text-align: center;
     background-color: greenyellow;
+    line-height: 1.3rem;
 }
-
+button{
+    border-radius: 2rem;
+    height: 3rem;
+    width: 6rem;
+    background-color: green;
+    color: white;
+    /* position: relative;
+    bottom: 2rem; */
+}
+.disp{
+    display: none;
+}
+span{
+    font-size: 20px;
+    font-weight: 700;
+}
 .main-content{
     background-color: #77a1cd;
     height: 20rem;
