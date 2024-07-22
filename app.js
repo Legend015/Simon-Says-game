@@ -5,7 +5,7 @@ let body = document.querySelector("body");
 let p = document.querySelector("p");
 let inst = document.querySelector(".instruction");
 
-document.addEventListener("keydown", function(){
+document.addEventListener("dblclick", function(){
     body.style.backgroundColor = "greenyellow";
     body.style.color = "black";
     p.innerText = "Level :: 0.";
@@ -57,7 +57,7 @@ box.forEach((boxElement, index) => {
 function check(n){
     if(s[counter] != n){
         p.innerText = `Oops, you are out!,highest score: ${highscore}`;
-        inst.innerText ="press any key to start the game";
+        inst.innerText ="Double click on screen to start the game";
         body.style.backgroundColor = "red";
         body.style.color = "white";
         s = "";
