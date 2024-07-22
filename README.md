@@ -1,5 +1,6 @@
 <h1>Simon Says Game</h1>
 <br>
+<h2>Game Url :- https://simon-says-game-teal.vercel.app/</h2>
 <p>
   <H2>Object of the Game</H2>
   <H3>1-player Game</H3>
