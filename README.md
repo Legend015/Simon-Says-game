@@ -1,5 +1,6 @@
 <h1>Simon Says Game</h1>
 <br>
+<h3>User friendly game for Windows and Android.<h3>
 <h2>Game Url :- https://simon-says-game-teal.vercel.app/</h2>
 <p>
   <H2>Object of the Game</H2>
